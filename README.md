@@ -6,7 +6,7 @@ docker build -t ocrmypdf_leak:latest .
 ```
 2. Start the docker image 
 ```shell
-docker run -it --memory=4g --memory-swap=4g --name=ocrmypdf_leak ocrmypdf_leak /bin/bash
+docker run -it --memory=3g --memory-swap=3g --name=ocrmypdf_leak ocrmypdf_leak /bin/bash
 ```
 3. Install tesseract:
 ```shell

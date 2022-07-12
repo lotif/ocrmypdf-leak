@@ -1,4 +1,4 @@
-# ocrmypdf memory leak
+# ocrmypdf high memory usage and possible memory leak
 
 1. Build docker image:
 ```shell
